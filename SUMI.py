@@ -213,7 +213,6 @@ def buy():
 def iAmMethod3Ua():
 	# YHN APNY ESE ANDROID KY UA LGANY HE MNE EXAMPLE KY LIYE IPHONE KY LGAY
 	ios_version = random.choice(["10_0_2","10_1_1","10_2","10_2_1","10_3_1","10_3_2","10_3_3"])
-	END = [FBAN/FB4A;FBAV/126.0.0.21.77;FBPN/com.facebook.katana;FBLC/en_US;FBBV/59748977;FBCR/AT&amp-T;FBMF/samsung;FBBD/samsung;FBDV/SAMSUNG-SM-G935A;FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.625,width=1080,height=1920};FB_FW/1]
 	ua = random.choice("Mozilla/5.0 (Windows NT 10.0; {str(rr(9,11))}; Win64; x64){str(aZ)}{str(rx)}{str(aZ)}) AppleWebKit/537.36 (KHTML, like Gecko){str(rr(99,149))}.0.{str(rr(4500,4999))}.{str(rr(35,99))} Chrome/{str(rr(99,175))}.0.{str(rr(0,5))}.{str(rr(0,5))} Safari/537.36")
 	return ua
 
